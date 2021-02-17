@@ -37,3 +37,4 @@ H:\miefbeau\miefbeau\obj\Debug\netcoreapp3.1\miefbeau.pdb
 H:\miefbeau\miefbeau\obj\Debug\netcoreapp3.1\miefbeau.genruntimeconfig.cache
 H:\miefbeau\miefbeau\obj\Debug\netcoreapp3.1\miefbeau.csproj.CopyComplete
 H:\miefbeau\miefbeau\obj\Debug\netcoreapp3.1\Razor\Views\Home\Data.cshtml.g.cs
+H:\miefbeau\miefbeau\obj\Debug\netcoreapp3.1\Razor\Views\Home\prijzen.cshtml.g.cs
