@@ -34,6 +34,12 @@ namespace miefbeau.Controllers
             return View();
         }
 
+        [Route("data")]
+        public IActionResult data()
+        {
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
