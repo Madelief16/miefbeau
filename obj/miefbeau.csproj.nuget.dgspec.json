@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "H:\\miefbeau\\miefbeau\\miefbeau.csproj": {}
+    "C:\\Users\\110368\\Source\\Repos\\Madelief16\\miefbeau\\miefbeau.csproj": {}
   },
   "projects": {
-    "H:\\miefbeau\\miefbeau\\miefbeau.csproj": {
+    "C:\\Users\\110368\\Source\\Repos\\Madelief16\\miefbeau\\miefbeau.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\miefbeau\\miefbeau\\miefbeau.csproj",
+        "projectUniqueName": "C:\\Users\\110368\\Source\\Repos\\Madelief16\\miefbeau\\miefbeau.csproj",
         "projectName": "miefbeau",
-        "projectPath": "H:\\miefbeau\\miefbeau\\miefbeau.csproj",
-        "packagesPath": "C:\\Users\\110461\\.nuget\\packages\\",
-        "outputPath": "H:\\miefbeau\\miefbeau\\obj\\",
+        "projectPath": "C:\\Users\\110368\\Source\\Repos\\Madelief16\\miefbeau\\miefbeau.csproj",
+        "packagesPath": "C:\\Users\\110368\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\110368\\Source\\Repos\\Madelief16\\miefbeau\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\110461\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\110368\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
