@@ -40,12 +40,19 @@ namespace miefbeau.Controllers
             return View();
         }
 
+        [Route("regels")]
+        public IActionResult regels()
+        {
+            return View();
+        }
+
         [Route("prijzen")]
         public IActionResult prijzen()
         {
             return View();
         }
 
+       
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
