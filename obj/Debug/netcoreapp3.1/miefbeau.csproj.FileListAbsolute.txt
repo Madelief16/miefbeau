@@ -119,3 +119,4 @@ C:\informatica\miefbeau\miefbeau\obj\Debug\netcoreapp3.1\miefbeau.pdb
 C:\informatica\miefbeau\miefbeau\obj\Debug\netcoreapp3.1\miefbeau.genruntimeconfig.cache
 C:\informatica\miefbeau\miefbeau\obj\Debug\netcoreapp3.1\miefbeau.csproj.CopyComplete
 C:\informatica\miefbeau\miefbeau\obj\Debug\netcoreapp3.1\Razor\Views\Home\Regels.cshtml.g.cs
+C:\informatica\miefbeau\miefbeau\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index - Copy.cshtml.g.cs
