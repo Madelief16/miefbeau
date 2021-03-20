@@ -1,1 +1,7 @@
 ﻿
+html, body {
+    background-color: rgb(246, 251, 255);
+    padding: 0px;
+    margin: 0px;
+    font-family: monospace;
+}
