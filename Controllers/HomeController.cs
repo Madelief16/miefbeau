@@ -64,6 +64,12 @@ namespace miefbeau.Controllers
             return View();
         }
 
+        [Route("Mystery Land")]
+        public IActionResult Mystery Land()
+        {
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
