@@ -123,3 +123,5 @@ C:\informatica\miefbeau\miefbeau\obj\Debug\netcoreapp3.1\Razor\Views\Home\Locati
 C:\informatica\miefbeau\miefbeau\obj\Debug\netcoreapp3.1\Razor\Views\Home\Lowlands.cshtml.g.cs
 C:\informatica\miefbeau\miefbeau\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy - Copy (2).cshtml.g.cs
 C:\informatica\miefbeau\miefbeau\obj\Debug\netcoreapp3.1\Razor\Views\Home\MysteryLand.cshtml.g.cs
+C:\informatica\miefbeau\miefbeau\obj\Debug\netcoreapp3.1\Razor\Views\Home\Hockeyloverz.cshtml.g.cs
+C:\informatica\miefbeau\miefbeau\obj\Debug\netcoreapp3.1\Razor\Views\Home\Pinkpop.cshtml.g.cs
