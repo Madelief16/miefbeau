@@ -64,8 +64,20 @@ namespace miefbeau.Controllers
             return View();
         }
 
-        [Route("Mystery Land")]
-        public IActionResult Mystery Land()
+        [Route("Hockeyloverz")]
+        public IActionResult Hockeyloverz()
+        {
+            return View();
+        }
+
+        [Route("MysteryLand")]
+        public IActionResult MysteryLand()
+        {
+            return View();
+        }
+
+        [Route("Pinkpop")]
+        public IActionResult Pinkpop()
         {
             return View();
         }
