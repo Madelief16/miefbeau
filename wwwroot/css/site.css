@@ -5,3 +5,24 @@ html, body {
     margin: 0px;
     font-family: monospace;
 }
+.homepage {
+    display: flex;
+    flex-direction: row;
+}
+.homepage a {
+    flex: 1;
+    display: block;
+    background-color: aquamarine;
+    padding: 10px;
+}
+.festivals {
+    display: flex;
+    flex-direction: row;
+}
+
+    .festivals a {
+        flex: 1;
+        display: block;
+        background-color: aquamarine;
+        padding: 10px;
+    }
